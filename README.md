@@ -6,9 +6,6 @@
 
 Projeto desenvolvido para aprimorar conhecimentos.
 
-[Clique aqui para acessar] (github.com:yurifurquim/camp-in.git)
-
-
 ## Tecnologias 
 
 - HTML
